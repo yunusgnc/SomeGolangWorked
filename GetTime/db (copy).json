@@ -1,0 +1,104 @@
+{
+  "product": [
+    {
+      "id": 4,
+      "title": "Keyboard",
+      "categoryId": 1,
+      "unitPrice": 159.99
+    },
+    {
+      "id": 5,
+      "title": "Phone",
+      "categoryId": 1,
+      "unitPrice": 6159.99
+    },
+    {
+      "id": 6,
+      "title": "Phone",
+      "categoryId": 1,
+      "unitPrice": 6159.99
+    },
+    {
+      "id": 7,
+      "title": "Phone",
+      "categoryId": 1,
+      "unitPrice": 6159.99
+    },
+    {
+      "id": 8,
+      "title": "Phone",
+      "categoryId": 1,
+      "unitPrice": 6159.99
+    },
+    {
+      "id": 9,
+      "title": "Phone",
+      "categoryId": 1,
+      "unitPrice": 6159.99
+    },
+    {
+      "id": 10,
+      "title": "Phone",
+      "categoryId": 1,
+      "unitPrice": 6159.99
+    },
+    {
+      "id": 12,
+      "title": "Phone",
+      "categoryId": 1,
+      "unitPrice": 6159.99
+    },
+    {
+      "id": 13,
+      "title": "Phone",
+      "categoryId": 1,
+      "unitPrice": 6159.99
+    },
+    {
+      "id": 14,
+      "title": "Phone",
+      "categoryId": 1,
+      "unitPrice": 6159.99
+    },
+    {
+      "id": 15,
+      "title": "Phone",
+      "categoryId": 1,
+      "unitPrice": 6159.99
+    },
+    {
+      "id": 16,
+      "title": "Phone",
+      "categoryId": 1,
+      "unitPrice": 6159.99
+    },
+    {
+      "id": 17,
+      "title": "Phone",
+      "categoryId": 1,
+      "unitPrice": 6159.99
+    },
+    {
+      "id": 18,
+      "title": "Phone",
+      "categoryId": 1,
+      "unitPrice": 6159.99
+    },
+    {
+      "id": 19,
+      "title": "Phone",
+      "categoryId": 1,
+      "unitPrice": 6159.99
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "categoryName": "Computers"
+    },
+    {
+      "id": 2,
+      "categoryName": "Beverages"
+    }
+  ]
+}
